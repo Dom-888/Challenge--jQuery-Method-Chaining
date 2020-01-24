@@ -55,3 +55,15 @@ Navigation
 .makeBorder{
 	border:2px;
 }
+
+/*************************
+First Challenge
+**************************/
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBorder {
+    border: black solid 2px;
+}
